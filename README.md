@@ -1,4 +1,4 @@
-# test-job
+# [test-job](https://github.com/apollonov-evgeniy/test-job/blob/main/test_job.ipynb)
 В заданном тестовом задании необходимо было создать реляционную базу данных, учитывающую срок действия кодов
 
 Для выполнения был написан код на языке Python и использована встроенная база SQLlite.
